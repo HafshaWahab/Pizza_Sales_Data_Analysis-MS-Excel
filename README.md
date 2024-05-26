@@ -39,5 +39,12 @@ The pizza place aims to leverage its business strategy by understanding more abo
 * VLOOKUP, removing delimiter, Conditional formatting, Sorting.
 * Pivot Tables & Charts
 
+## FINDINGS
+
+[Click to download Power BI Dashboard](https://drive.google.com/file/d/1J1m0_iZ-YHjDo4YHXUtx5w8RDV82JBGm/view?usp=sharing)
+
+![Pizza sales PBI images_1](https://github.com/HafshaWahab/Pizza_Sales_Data_Analysis-MS-Excel_PowerBI_SQL/assets/152807534/73908973-26f0-4ffd-baf5-9fc97051fcf1)
+![Pizza sales PBI images_2](https://github.com/HafshaWahab/Pizza_Sales_Data_Analysis-MS-Excel_PowerBI_SQL/assets/152807534/cd276f7d-1a2c-427a-b4a4-f7554a007e6e)
+
 ## CONCLUSION:
 In conclusion, the analysis of pizza sales data has shed light on several important aspects of customer behaviour, market trends, and business performance within the pizza industry. We have identified key findings by examining the data and drawing insights that can guide decision-making and drive business growth.
